@@ -1,0 +1,15 @@
+
+for i in range( , ):
+    for j in range( , ):
+           
+        for i_neigh in range( , ):
+            for j_neigh in range( , ):
+                if (i_neigh i   x_cells)
+              cell_matrix[i][j]
+            if      and    "hidden":
+                  "to_visible"
+            if k     and    "visible":
+                  "to_hidden"
+
+
+

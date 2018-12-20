@@ -1,0 +1,3 @@
+﻿  metriclab.cpp
+c:\users\lenovo\source\repos\metriclab\metriclab\metriclab.cpp(41): warning C4715: checkM: значение возвращается не при всех путях выполнения
+  metriclab.vcxproj -> C:\Users\lenovo\source\repos\metriclab\Debug\metriclab.exe
